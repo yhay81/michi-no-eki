@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f5f0df"/>
+  <rect x="44" y="44" width="1112" height="542" rx="36" fill="#fffdf5" stroke="#d7d6c7" stroke-width="3"/>
+  <rect x="676" y="45" width="479" height="540" rx="35" fill="#c9d9d1"/>
+  <circle cx="1048" cy="145" r="48" fill="#f1c84b"/>
+  <path d="M630 448c100-155 227-178 364-32 58-82 117-104 183-59v229H630Z" fill="#6d9166"/>
+  <path d="M635 525c167-95 338-93 540-14v75H635Z" fill="#51615a"/>
+  <path d="M670 542h426" stroke="#f1c84b" stroke-width="10" stroke-dasharray="70 42"/>
+  <g transform="translate(750 112) rotate(45 94 94)">
+    <rect x="8" y="8" width="172" height="172" rx="28" fill="#275845" stroke="#fffdf5" stroke-width="8"/>
+    <g transform="rotate(-45 94 94)" fill="#fffdf5" text-anchor="middle" font-family="Yu Gothic UI, sans-serif" font-weight="800">
+      <text x="94" y="88" font-size="27">道の駅</text><text x="94" y="121" font-size="20">1,231</text>
+    </g>
+  </g>
+  <rect x="950" y="262" width="135" height="48" rx="10" fill="#d66c3a" stroke="#fffdf5" stroke-width="5"/>
+  <text x="1018" y="293" fill="#fff" text-anchor="middle" font-family="Yu Gothic UI, sans-serif" font-size="17" font-weight="800">47 都道府県</text>
+  <text x="96" y="135" fill="#d66c3a" font-family="ui-monospace, monospace" font-size="18" font-weight="800" letter-spacing="4">MICHI-NO-EKI FINDER</text>
+  <text x="96" y="226" fill="#193229" font-family="Yu Gothic UI, sans-serif" font-size="54" font-weight="800">行き先を探す。</text>
+  <text x="96" y="300" fill="#193229" font-family="Yu Gothic UI, sans-serif" font-size="54" font-weight="800">旅の停車札を並べる。</text>
+  <text x="98" y="365" fill="#59675f" font-family="Yu Gothic UI, sans-serif" font-size="24">全国1,231の登録駅を、駅名・所在地・登録時期から。</text>
+  <g font-family="ui-monospace, monospace" font-size="18" font-weight="800">
+    <rect x="96" y="426" width="143" height="48" rx="10" fill="#275845"/><text x="168" y="457" fill="#fff" text-anchor="middle">北海道 128</text>
+    <rect x="253" y="426" width="120" height="48" rx="10" fill="#4d7c8d"/><text x="313" y="457" fill="#fff" text-anchor="middle">岐阜 55</text>
+    <rect x="387" y="426" width="120" height="48" rx="10" fill="#d66c3a"/><text x="447" y="457" fill="#fff" text-anchor="middle">長野 54</text>
+  </g>
+  <text x="98" y="536" fill="#275845" font-family="Yu Gothic UI, sans-serif" font-size="23" font-weight="800">道の駅さがし · michi-no-eki.yhay81.com</text>
+</svg>

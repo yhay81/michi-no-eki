@@ -1,0 +1,10 @@
+{
+  "name": "道の駅さがし",
+  "short_name": "道の駅さがし",
+  "description": "全国1,231の道の駅を探し、旅の停車札をつくる",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f0df",
+  "theme_color": "#275845",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

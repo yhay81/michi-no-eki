@@ -1,0 +1,20 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "michi-no-eki",
+  "main": "src/worker.tsx",
+  "compatibility_date": "2026-07-29",
+  "workers_dev": false,
+  "preview_urls": false,
+  "routes": [{ "pattern": "michi-no-eki.yhay81.com", "custom_domain": true }],
+  "triggers": { "crons": ["27 22 * * *"] },
+  "observability": { "enabled": true },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "michi-no-eki",
+      "database_id": "2773bc66-073f-4753-b92a-87ea9b145d93",
+      "migrations_dir": "migrations",
+    },
+  ],
+  "assets": { "directory": "./public", "binding": "ASSETS" },
+}
